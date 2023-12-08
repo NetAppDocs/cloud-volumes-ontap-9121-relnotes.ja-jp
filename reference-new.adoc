@@ -20,6 +20,14 @@ Cloud Volumes ONTAP 9.12.1には、新しい拡張機能が含まれています
 
 
 
+== 9.12.1 P8（2023年12月8日）
+
+すべてのクラウドプロバイダのCloud Volumes ONTAPで、9.12.1 P8パッチを利用できるようになりました。BlueXPでは、既存のシステムをこのパッチリリースにアップグレードするように求められます。
+
+link:https://mysupport.netapp.com/site/products/all/details/cloud-volumes-ontap/downloads-tab/download/62632/9.12.1P8["P8パッチで修正されたバグのリストを表示する"^] （NetApp Support Siteへのログインが必要です）。
+
+
+
 == 9.12.1 GA（2023年2月9日）
 
 Cloud Volumes ONTAP 9.12.1のGeneral Availability（GA）リリースが、AWS、Azure、Google Cloudで利用できるようになりました。GA リリースにはバグの修正が含まれています。
