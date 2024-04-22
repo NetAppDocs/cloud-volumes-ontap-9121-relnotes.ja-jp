@@ -725,4 +725,12 @@ HAペア：18（ノード^1^</block>
   <block id="cc166601884aa0c57bb02902cbf3e2ad" category="paragraph">すべてのクラウドプロバイダのCloud Volumes ONTAPで、9.12.1 P9パッチを利用できるようになりました。BlueXPでは、既存のシステムをこのパッチリリースにアップグレードするように求められます。</block>
   <block id="4b99ccc66c896711e2667fd1c7cc5a70" category="inline-link-macro">P9パッチで修正されたバグのリストを表示する</block>
   <block id="d0b2ca8271dd8bcbce366784bf744158" category="paragraph"><block ref="a62fdbf622c208963a49bc988200ee74" category="inline-link-macro-rx"></block> （NetApp Support Siteへのログインが必要です）。</block>
+  <block id="bc350ad8c67dbe0649aba1c477f12196" category="section-title">9.12.1 P11（2024年4月22日）</block>
+  <block id="c32b8321eaf1dbea8beb66abe7fbcfa1" category="paragraph">すべてのクラウドプロバイダのCloud Volumes ONTAPで、9.12.1 P11パッチを利用できるようになりました。BlueXPでは、既存のシステムをこのパッチリリースにアップグレードするように求められます。</block>
+  <block id="4d51ff14f4691186785e9ce841b8db7c" category="inline-link-macro">P11 パッチで修正されたバグのリストを表示します</block>
+  <block id="06f79f1078bf5db87d3fc63cd27e36b6" category="paragraph"><block ref="41aa0def279e63ada20c34fc0220a832" category="inline-link-macro-rx"></block> （NetApp Support Siteへのログインが必要です）。</block>
+  <block id="f0bcb6a3834bb8226d6e034f6f0d4d9a" category="section-title">9.12.1 P10（2024年4月22日）</block>
+  <block id="d5e02577f66b97067be75a9ef81d7c09" category="paragraph">すべてのクラウドプロバイダのCloud Volumes ONTAPで、9.12.1 P10パッチを利用できるようになりました。BlueXPでは、既存のシステムをこのパッチリリースにアップグレードするように求められます。</block>
+  <block id="7c8ff86b41b72d8fa99855f2e2c45139" category="inline-link-macro">P10パッチで修正されたバグのリストを表示する</block>
+  <block id="606401dc75e0992ae91880346f992a16" category="paragraph"><block ref="1f37417b1f9cda079de9cdbac9ee9dcc" category="inline-link-macro-rx"></block> （NetApp Support Siteへのログインが必要です）。</block>
 </blocks>
