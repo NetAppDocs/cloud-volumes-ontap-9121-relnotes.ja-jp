@@ -20,6 +20,14 @@ Cloud Volumes ONTAP 9.12.1には、新しい拡張機能が含まれています
 
 
 
+== 9.12.1 P13（2024年8月8日）
+
+すべてのクラウドプロバイダのCloud Volumes ONTAPで、9.12.1 P13パッチが利用できるようになりました。BlueXPでは、既存のシステムをこのパッチリリースにアップグレードするように求められます。
+
+link:https://mysupport.netapp.com/site/products/all/details/cloud-volumes-ontap/downloads-tab/download/62632/9.12.1P13["P13パッチで修正されたバグの一覧を表示する"^] （NetAppサポートサイトへのログインが必要です）。
+
+
+
 == 9.12.1 P12（2024年5月22日）
 
 すべてのクラウドプロバイダのCloud Volumes ONTAPで、9.12.1 P12パッチが利用できるようになりました。BlueXPでは、既存のシステムをこのパッチリリースにアップグレードするように求められます。
