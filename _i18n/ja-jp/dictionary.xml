@@ -515,7 +515,6 @@ HAペア：18（ノード^1^</block>
   <block id="4f9154c68af93dc525373bf1a9c2edce" category="section-title">ファイルとボリュームの制限</block>
   <block id="8e79313a5b6fb51ae3e76e64449c9f1d" category="cell">クローン階層の深さ ^1^</block>
   <block id="16b3ee4e5301a5f3f5b55816b3906b83" category="summary">このリリースノートでは、Cloud Volumes ONTAP 9.12.1の新機能、制限事項、および既知の問題について説明します。</block>
-  <block id="f27b112d1527e5f29f0e8f510d779a5e" category="doc">Cloud Volumes ONTAP 9.12.1リリースノート</block>
   <block id="fa082ab1a05e05550971e6e5f583dcfe" category="summary">AWS では、いくつかの Cloud Volumes ONTAP 構成がサポートされます。</block>
   <block id="8bb0da4c260f565e0c8162ea9c2b7caa" category="doc">AWS でサポートされる構成</block>
   <block id="7db0f9060b8b2def82346add7b8e89c0" category="section-title">サポートされるノード数</block>
@@ -693,7 +692,6 @@ HAペア：18（ノード^1^</block>
   <block id="dd490b81914dd945601e442a41cb4222" category="sidebar">ネットアップコミュニティ</block>
   <block id="bd5465eb0e8cf8f303aee7ea9420c8b1" category="sidebar">BlueXPブログ</block>
   <block id="ad203e818e0c9d7f42f1c260b33875f3" category="sidebar">クラウドに関する Web セミナー</block>
-  <block id="da38098873cb3db962a9491ab33ff93d" category="sidebar">リリースノートのホーム</block>
   <block id="4847e034bb0a55fcbc8a3380d6a3ab80" category="sidebar">AWS</block>
   <block id="3a580f142203677f1f0bc30898f63f53" category="sidebar">Azure</block>
   <block id="482723983a4f2af954e36ff41e567451" category="sidebar">既知の制限</block>
@@ -745,4 +743,7 @@ HAペア：18（ノード^1^</block>
   <block id="2736491b0d91473289e42f092b1bf7a8" category="paragraph">すべてのクラウドプロバイダのCloud Volumes ONTAPで、9.12.1 P14パッチが利用できるようになりました。BlueXPでは、既存のシステムをこのパッチリリースにアップグレードするように求められます。</block>
   <block id="c476446cae3f83bea1b304ddc122e040" category="inline-link-macro">P14パッチで修正されたバグの一覧を表示する</block>
   <block id="7f6bf3f591ebcac8172644473a861a3f" category="paragraph"><block ref="097760c954c4bdbaccfb64f476a75d11" category="inline-link-macro-rx"></block> （NetAppサポートサイトへのログインが必要です）。</block>
+  <block id="4456e8c89e1ffcba3d0176f270fe18fb" category="doc">Cloud Volumes ONTAP 9.12.1リリースノート</block>
+  <block id="c3647f40e3574e0e6f49e20c19135bfa" category="section-title">Azure VM拡張機能の使用に関する制限事項</block>
+  <block id="9d167ed7d52d81da8d83590ec3b5a4af" category="paragraph">Cloud Volumes ONTAPでは、Azure Virtual Machine（VM）拡張機能と導入環境内のVMアプリケーションはサポートされません。AzureでVM拡張機能を使用してCloud Volumes ONTAPを使用すると、運用に遅延が発生するため、NetAppではそれらを回避することを推奨</block>
 </blocks>
